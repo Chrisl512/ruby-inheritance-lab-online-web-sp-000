@@ -7,7 +7,7 @@ class Teacher < User
 
 def teach
   Teacher::KNOWLEDGE
-  binding.pry
+  
 end
 
 end
