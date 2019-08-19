@@ -11,3 +11,5 @@ class Teacher < User
   end
 
 end
+
+techer.teach
