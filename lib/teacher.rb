@@ -12,5 +12,5 @@ class Teacher < User
 
 end
 
+Teacher.new
 teacher.teach
-binding.pry
