@@ -13,3 +13,4 @@ class Teacher < User
 end
 
 techer.teach
+binding.pry
