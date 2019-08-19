@@ -11,6 +11,3 @@ class Teacher < User
   end
 
 end
-
-Teacher.new
-teacher.teach
